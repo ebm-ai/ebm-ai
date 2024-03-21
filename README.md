@@ -13,12 +13,12 @@
 - ⚡ Fun fact: I'm always open to work 😄
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href=hhttps://linkedin.com/in/www.linkedin.com/in/eyob-birhanemeskel-ayalew/>
+
+<div id="badges">
+  <a href=https://www.linkedin.com/in/eyob-birhanemeskel-ayalew/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
-
+  
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
