@@ -33,7 +33,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ebm-ai&show_icons=true&locale=en" alt="ebm-ai" /></p>
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ebm-ai&" alt="ebm-ai" /></p>
+<p><a><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ebm-ai&" alt="ebm-ai" /></a>a</p>
 
 
 
