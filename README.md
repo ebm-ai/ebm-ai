@@ -19,6 +19,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git,py,cs,js,html,css,pycharm,react,angular,dotnet,mysql,express,nodejs,postman,vscode,visualstudio,azure,anaconda,aws,tensorflow,opencv,ai,ps,xd" />
+     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,azure,anaconda,aws,tensorflow,opencv,ai,ps,xd" />
   </a>
 </p>
 
