@@ -16,6 +16,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,py,cs,js,html,css,pycharm,react,angular,dotnet,mysql,express,nodejs,postman,vscode,visualstudio,azure,anaconda,aws,tensorflow,opencv,ai,ps,xd" />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebm-ai&show_icons=true&locale=en&layout=compact" alt="ebm-ai" /></p>
 
