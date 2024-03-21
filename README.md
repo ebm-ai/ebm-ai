@@ -5,6 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebm-ai&label=Profile%20views&color=0e75b6&style=flat" alt="ebm-ai" /> </p>
 
+- ✍ You can find my projects here
+- 🔭 I’m currently working on different projects
+- 🌱 I’m currently learning machine learning
+- 👯 I’m looking to collaborate on any data analysis project
+- 💬 Ask me about ... Anything 
+- ⚡ Fun fact: I'm always open to work 😄
 - 📫 How to reach me **eyobayalew.he@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
