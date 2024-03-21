@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on any data analysis project
 - 💬 Ask me about ... Anything 
 - ⚡ Fun fact: I'm always open to work 😄
-- 📫 How to reach me **eyobayalew.he@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
