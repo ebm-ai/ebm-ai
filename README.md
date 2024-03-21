@@ -29,11 +29,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebm-ai&show_icons=true&locale=en&layout=compact" alt="ebm-ai" />
-  </a>
-</p>
+<p align="center"><a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebm-ai&show_icons=true&locale=en&layout=compact" alt="ebm-ai" /></a></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ebm-ai&show_icons=true&locale=en" alt="ebm-ai" /></p>
 
